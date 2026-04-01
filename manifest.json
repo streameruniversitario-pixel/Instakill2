@@ -1,1 +1,10 @@
-
+{
+  "name": "Instakill - 2",
+  "version": "2.1.0",
+  "files": [
+    {
+      "url": "https://github.com/streameruniversitario-pixel/Instakill2/releases/download/v2.1.0/Instakill.2.1.0.0.mrpack",
+      "path": "modpack.mrpack"
+    }
+  ]
+}
