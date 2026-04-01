@@ -1,11 +1,10 @@
 {
   "packages": [
     {
-      "name": "instakill2",
       "title": "Instakill - 2",
-      "version": "2.1.0",
-      "location": "manifest.json",
-      "priority": 0
+      "name": "instakill2",
+      "version": "1.0",
+      "location": "https://raw.githubusercontent.com/streameruniversitario-pixel/Instakill2/main/modpack/manifest.json"
     }
   ]
 }
